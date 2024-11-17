@@ -92,15 +92,20 @@ header {
 
 .frase__pagina {
     width: 50%;
+    font-size: 2rem;
     text-align: center;
     font-weight: 400;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-left: 5px;
+
     
 }
 
 .titulo {
     font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+
 
 }
 
@@ -128,4 +133,38 @@ header {
 }
 
 
+.sobre {
+    background-image: none;
+    background-color: #EFEFEF;
+    color: var(--preto-principal);
+    padding: 40px 20px;
+    margin: 30px auto; 
+    max-width: 900px; 
+    border-radius: 15px; 
+    text-align: justify;
+    height: auto 
+}
+
+.frase__sobre {
+    text-align: left;
+    margin: 5px;
+    width: 100%;
+    
+}
+
+body {
+    background-color: var(--verde-principal); 
+    font-family: var(--fonte-principal); 
+    margin: 0; 
+    padding: 0;
+    color: #333333;
+}
+
+.titulo__sobre {
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: var(--verde-principal);
+
+}
 
