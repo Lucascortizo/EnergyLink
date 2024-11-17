@@ -132,6 +132,14 @@ header {
     color: var(--branco-principal);
 }
 
+.dark-mode .sobre {
+    background-color: var(--cinza-escuro);
+    color: var(--branco-principal);
+}
+
+.dark-mode .titulo__sobre {
+    color: var(--verde-escuro);
+}
 
 .sobre {
     background-image: none;
