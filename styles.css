@@ -197,3 +197,18 @@ body {
     font-size: 1.4rem;
     font-weight: 600;
 }
+
+
+.label__suporte {
+    font-size: 1rem;
+    margin-bottom: 8px; 
+    display: block;
+}
+
+.input__suporte {
+    width: 100%;
+    font-size: 1rem;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    background-color: var(--branco-principal);
+}
