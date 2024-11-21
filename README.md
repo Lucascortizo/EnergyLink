@@ -23,3 +23,4 @@ Este é um site desenvolvido para facilitar na escolha de uma companhia de energ
 ## Link para o Site Publicado
 
 O site pode ser acessado através do seguinte link:
+https://lucascortizo.github.io/EnergyLink/
