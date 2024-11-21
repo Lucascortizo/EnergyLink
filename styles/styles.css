@@ -212,3 +212,22 @@ body {
     margin-bottom: 15px;
     background-color: var(--branco-principal);
 }
+
+#form-login {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    gap: 1rem;
+
+}
+
+.titulo__login {
+    text-align: center;
+
+}
+
+.botao__login {
+    width: 50%;
+}
+
