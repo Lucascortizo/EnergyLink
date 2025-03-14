@@ -24,3 +24,8 @@ Este é um site desenvolvido para facilitar na escolha de uma companhia de energ
 
 O site pode ser acessado através do seguinte link:
 https://lucascortizo.github.io/EnergyLink/
+
+## Link para o Figma
+
+O fimga pode ser acessador através do seguinte link:
+https://www.figma.com/design/rmbVVd3O5dfqOcAYNPMqFx/EnergyLink---GS-Front-End?node-id=2-20347&p=f&t=o1EX8AtOW9qxCOOK-0
